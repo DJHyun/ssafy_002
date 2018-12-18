@@ -147,7 +147,21 @@ for toon in data:
 
 
 
+# GIT 등록
 
+1. git init
+
+   1. .git만드는 방법
+
+2. git add .
+
+   1. 저장할 준비를 하삼
+
+3. ```
+   git commit -m "first commit"
+   ```
+
+ 
 
   
 
